@@ -1,0 +1,1086 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"send",
+				"sendGift"
+			],
+			[
+				"row",
+				"grid_rowconfigure"
+			],
+			[
+				"country",
+				"country_names"
+			],
+			[
+				"stat",
+				"statusmsg"
+			],
+			[
+				"pop",
+				"populations"
+			],
+			[
+				"three",
+				"threevar"
+			],
+			[
+				"cal",
+				"calculate"
+			],
+			[
+				"feet",
+				"feet_entry"
+			],
+			[
+				"calulate",
+				"Calculate"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"max",
+				"max_range"
+			],
+			[
+				"EVENT",
+				"EVENT_KEY_PRESS"
+			],
+			[
+				"item",
+				"item_component"
+			],
+			[
+				"light",
+				"light_yellow"
+			],
+			[
+				"FIRE",
+				"FIREBALL_DAMAGE"
+			],
+			[
+				"fire",
+				"FIREBALL_RADIUS"
+			],
+			[
+				"take",
+				"take_damage"
+			],
+			[
+				"target",
+				"target_tile"
+			],
+			[
+				"dist",
+				"distance_to"
+			],
+			[
+				"distan",
+				"distance"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"KEY",
+				"KEY_ESCAPE"
+			],
+			[
+				"render",
+				"render"
+			],
+			[
+				"Con",
+				"ConfusedMonster"
+			],
+			[
+				"CONFU",
+				"CONFUSION_RANGE"
+			],
+			[
+				"clos",
+				"closest_enemy"
+			],
+			[
+				"cast",
+				"cast_confuse"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"closes",
+				"closest_enemy"
+			],
+			[
+				"fov",
+				"fov_map"
+			],
+			[
+				"map",
+				"map_is_in_fov"
+			],
+			[
+				"close",
+				"closest_monster"
+			],
+			[
+				"tak",
+				"take_damage"
+			],
+			[
+				"invento",
+				"inventory"
+			],
+			[
+				"use",
+				"use_function"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"player",
+				"player_action"
+			],
+			[
+				"invent",
+				"inventory_menu"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"SC",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SCR",
+				"SCREEN_WIDTH"
+			],
+			[
+				"console_p",
+				"console_print_ex"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"conp",
+				"console_print_ex"
+			],
+			[
+				"con_se_f",
+				"console_set_default_foreground"
+			],
+			[
+				"pick",
+				"pick_up"
+			],
+			[
+				"objec",
+				"objects"
+			],
+			[
+				"MA",
+				"MAX_ITEMS"
+			],
+			[
+				"panel",
+				"panel"
+			],
+			[
+				"consofor",
+				"console_set_default_foreground"
+			],
+			[
+				"colo",
+				"colour"
+			],
+			[
+				"game",
+				"game_msgs"
+			],
+			[
+				"SCREE",
+				"SCREEN_WIDTH"
+			],
+			[
+				"Pan",
+				"PANEL_Y"
+			],
+			[
+				"da",
+				"dark_red"
+			],
+			[
+				"libt",
+				"libtcod"
+			],
+			[
+				"bkgn",
+				"BKGND_NONE"
+			],
+			[
+				"consol",
+				"console_rect"
+			],
+			[
+				"bar",
+				"bar_colour"
+			],
+			[
+				"mon",
+				"monster_death"
+			],
+			[
+				"block",
+				"blocks"
+			],
+			[
+				"BK",
+				"BKGND_NONE"
+			],
+			[
+				"Sc",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"fight",
+				"fighter"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"dam",
+				"damage"
+			],
+			[
+				"figh",
+				"fighter"
+			],
+			[
+				"console_is",
+				"console_is_key_pressed"
+			],
+			[
+				"ta",
+				"target_y"
+			],
+			[
+				"player_act",
+				"player_move_or_attack"
+			],
+			[
+				"play",
+				"player_action"
+			],
+			[
+				"gam",
+				"game_state"
+			],
+			[
+				"blo",
+				"blocks"
+			],
+			[
+				"new",
+				"new_room"
+			],
+			[
+				"ran",
+				"random_get_int"
+			],
+			[
+				"FO",
+				"FOV_ALGO"
+			],
+			[
+				"fo",
+				"fov_recompute"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"ne",
+				"new_room"
+			],
+			[
+				"prev_",
+				"prev_y"
+			],
+			[
+				"prev",
+				"prev_x"
+			],
+			[
+				"other",
+				"other_room"
+			],
+			[
+				"create",
+				"create_h_tunnel"
+			],
+			[
+				"make",
+				"make_map"
+			],
+			[
+				"MAP",
+				"MAP_WIDTH"
+			],
+			[
+				"Map",
+				"MAP_WIDTH"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"screen",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"con",
+				"console_put_char"
+			],
+			[
+				"h",
+				"handle_keys"
+			],
+			[
+				"next",
+				"next_state"
+			],
+			[
+				"nex",
+				"next_state"
+			],
+			[
+				"curr",
+				"current_state"
+			],
+			[
+				"Cell",
+				"CELLSIZE"
+			],
+			[
+				"Window",
+				"WINDOW_HEIGHT"
+			],
+			[
+				"Wind",
+				"WINDOW_WIDTH"
+			],
+			[
+				"Win",
+				"WINDOW_WIDTH"
+			],
+			[
+				"win",
+				"WINDOW_WIDTH"
+			],
+			[
+				"cell",
+				"CELLSIZE"
+			],
+			[
+				"windo",
+				"WINDOW_WIDTH"
+			],
+			[
+				"wind",
+				"WINDOW_HEIGHT"
+			],
+			[
+				"process",
+				"process_bands"
+			],
+			[
+				"Image",
+				"ImageFilter"
+			],
+			[
+				"right",
+				"right_part"
+			],
+			[
+				"left",
+				"left_part"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"thum",
+				"thumbfile"
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"level",
+				"levelname"
+			],
+			[
+				"W",
+				"WELCOME_MESSAGE"
+			],
+			[
+				"error",
+				"error_file_handler"
+			],
+			[
+				"info",
+				"info_file_handler"
+			],
+			[
+				"f",
+				"formatters"
+			],
+			[
+				"sec",
+				"sector_map"
+			],
+			[
+				"sys",
+				"systems"
+			],
+			[
+				"control",
+				"control_old"
+			],
+			[
+				"b",
+				"b01101000"
+			],
+			[
+				"getin",
+				"_get_input"
+			],
+			[
+				"optio",
+				"options"
+			],
+			[
+				"convert",
+				"convert_int"
+			],
+			[
+				"allow",
+				"allow_cancel"
+			],
+			[
+				"all",
+				"allow_cancel"
+			],
+			[
+				"fal",
+				"False"
+			],
+			[
+				"get_in",
+				"get_input"
+			],
+			[
+				"prope",
+				"properly"
+			],
+			[
+				"di",
+				"discarded"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"snipp",
+				"Snippet: New Property"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"snippet",
+				"Snippet: <base>"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ss p",
+				"Set Syntax: Python"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 249.0,
+		"history":
+		[
+			"clear()",
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Makie/GitHub/markov"
+	],
+	"file_history":
+	[
+		"/C/Users/Makie/Downloads/southampton_england.osm",
+		"/C/Users/Makie/Downloads/southampton_england.osm.bz2",
+		"/C/Users/Makie/AppData/Local/Temp/7zOBB1B.tmp/southampton_england.osm",
+		"/C/Python34/Lib/tkinter/__init__.py",
+		"/C/Users/Makie/GitHub/cave/readme.md",
+		"/K/Garmin/startup.txt",
+		"/C/Users/Makie/GitHub/cave/learn/firstrl.py",
+		"/C/Users/Makie/Documents/DOMINOS MILEAGE",
+		"/C/Users/Makie/Downloads/geocaching (1).loc",
+		"/C/Users/Makie/Downloads/geocaching (2).loc",
+		"/J/Garmin/GPX/GC2CNVD.GPX",
+		"/J/Garmin/GPX/GC32A57.GPX",
+		"/J/Garmin/GPX/GC2NPBH.GPX",
+		"/J/Garmin/startup.txt",
+		"/J/autorun.inf",
+		"/C/Users/Makie/Downloads/3aZ_0_repl.txt",
+		"/C/Dwarf Fortress 40_13 Starter Pack r5/User Generated Content/Why this folder exists.txt",
+		"/C/Users/Public/Sony Online Entertainment/Installed Games/PlanetSide 2/welcome.txt",
+		"/C/Users/Makie/GitHub/cave/learn/scratch.py",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/run.log",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/data/palettes/Palette.txt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/data/skins.xt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/images/test2.txt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/data/fonts/_config.xt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/images/test2.csv",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/images/test-BBCode.txt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/images/test.xml",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/images/test.txt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/images/test.csv",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/MANUAL.txt",
+		"/C/Python34/Lib/site-packages/pygame/docs/ref/docscomments.json",
+		"/C/Python34/Lib/site-packages/pygame/docs/__main__.py",
+		"/C/Python34/Lib/site-packages/pygame/docs/__init__.py",
+		"/C/Users/Makie/Downloads/libtcod-1.5.1-mingw32/libtcod-1.5.1/doc/py/api-objects.txt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/stderr.txt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/REXPaint-README.txt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/data/ansi/ANSI_README.txt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/images/test.txt.csv",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/images/test.txt.txt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/images/test.txt-BBCode.txt",
+		"/C/Users/Makie/Downloads/REXPaint_v0.99r9/REXPaint-R9/images/test.xp",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Makie/AppData/Local/Temp/7zO9D86.tmp/Readme.txt",
+		"/C/Users/Makie/Downloads/libtcod-1.5.1-mingw32/libtcod-1.5.1/samples_py.py",
+		"/C/Users/Makie/Downloads/libtcod-1.5.1-mingw32/libtcod-1.5.1/libtcodpy.py",
+		"/C/Users/Makie/Downloads/libtcod-1.5.1-mingw32/libtcod-1.5.1/data/namegen/mingos_demon.cfg",
+		"/C/Users/Makie/Downloads/libtcod-1.5.1-mingw32/libtcod-1.5.1/data/namegen/README.txt",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Makie/Downloads/libtcod-1.5.1-mingw32/libtcod-1.5.1/LIBTCOD-LICENSE.txt",
+		"/C/Users/Makie/GitHub/cave/scratch.py",
+		"/C/Users/Makie/GitHub/cave/.gitignore",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/C/Users/Makie/GitHub/cave/cave/game.py",
+		"/C/Users/Makie/Downloads/libtcod-1.5.1-MSVC/libtcod-1.5.1/terminal.png",
+		"/C/Users/Makie/Downloads/libtcod-1.5.1-MSVC/libtcod-1.5.1/libtcodpy.py",
+		"/C/Users/Makie/AppData/Local/Temp/7zEF053.tmp/libtcodpy.py",
+		"/C/Users/Makie/AppData/Local/Temp/7zO7BCD.tmp/README-SDL.txt",
+		"/C/Users/Makie/AppData/Local/Temp/7zOA2DE.tmp/LIBTCOD-LICENSE.txt",
+		"/C/Users/Makie/Downloads/GoL_RandomColours.py",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Makie/GitHub/PillowPractice/ReadMe.md",
+		"/C/Users/Makie/Downloads/images2gif.py",
+		"/C/Users/Makie/GitHub/PillowPractice/lena.thumbnail",
+		"/C/Users/Makie/GitHub/PillowPractice/.gitattributes",
+		"/C/Users/Makie/GitHub/PillowPractice/.gitignore",
+		"/C/Users/Makie/GitHub/PillowPractice/lena.ppm",
+		"/C/Users/Makie/GitHub/PillowPractice/PillowPractice.sublime-project",
+		"/C/Users/Makie/GitHub/PillowPractice/1401918435398.jpg",
+		"/C/Users/Makie/GitHub/PillowPractice/lena.jpg",
+		"/C/Users/Makie/GitHub/linear-cpp/Chapter 03 - If/mine.cpp",
+		"/C/Users/Makie/GitHub/linear-cpp/hello.cpp",
+		"/C/Users/Makie/GitHub/linear-cpp/Chapter 02 - Types and Variables/mine.cpp",
+		"/C/Users/Makie/GitHub/linear-cpp/Chapter 01 - Hello World/mine.cpp",
+		"/C/Users/Makie/GitHub/linear-cpp/Chapter 02 - Types and Variables/main.cpp",
+		"/C/Users/Makie/GitHub/linear-cpp/Chapter 03 - If/main.cpp",
+		"/C/Users/Makie/GitHub/linear-cpp/Chapter 01 - Hello World/main.cpp",
+		"/C/Users/Makie/GitHub/linear-cpp/Chapter 00 - Foreword/main.cpp",
+		"/C/Users/Makie/GitHub/linear-cpp/intro.cpp",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/TDM-GCC/README-gcc-tdm.txt",
+		"/C/Users/Makie/Downloads/MyCV.txt",
+		"/C/Users/Makie/txt_generations.py",
+		"/C/Users/Makie/Downloads/atv_mvp.m3u8",
+		"/C/Users/Makie/AppData/Local/Introversion/Prison Architect/saves/small.prison",
+		"/K/Garmin/GPX/Waypoints_10-AUG-14.gpx",
+		"/K/Garmin/Profiles/Recreational.gpf",
+		"/C/Users/Makie/GitHub/logging.txt",
+		"/C/Users/Makie/GitHub/txt_generations/logging.json",
+		"/C/Users/Makie/GitHub/txt_generations/logging.txt",
+		"/C/Users/Makie/GitHub/txt_generations/__main__.py",
+		"/C/Users/Makie/GitHub/txt_generations/__init__.py",
+		"/C/Users/Makie/GitHub/txt_generations/scratch.py",
+		"/C/Users/Makie/GitHub/txt_generations/txt_gen.sublime-project",
+		"/C/Users/Makie/GitHub/SWN_Gen/swn_gen/__init__.py",
+		"/C/Users/Makie/GitHub/SWN_Gen/swn_gen/__main__.py",
+		"/C/Users/Makie/GitHub/SWN_Gen/logging.json",
+		"/C/Users/Makie/GitHub/SWN_Gen/swn_gen/data/data_tables.json",
+		"/C/Users/Makie/GitHub/SWN_Gen/scratch.py",
+		"/C/Users/Makie/GitHub/FrapsView/FrapsView.py",
+		"/C/Users/Makie/GitHub/Practice/scratch.py",
+		"/C/Users/Makie/GitHub/SWN_Gen/SWN_gen.sublime-project",
+		"/C/Users/Makie/GitHub/SWN_Gen/main.py",
+		"/C/Users/Makie/GitHub/Practice/practice.sublime-project",
+		"/C/Users/Makie/GitHub/SWN_Gen/data_tables.json",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Makie/GitHub/SWN_Gen/map_template.txt",
+		"/C/Users/Makie/GitHub/SWN_Gen/sectors.py",
+		"/C/Users/Makie/GitHub/SWN_Gen/data.json",
+		"/C/Users/Makie/GitHub/SWN_Gen/world_tags.json",
+		"/C/Users/Makie/Downloads/104598.user.js",
+		"/C/Users/Makie/Downloads/SWN_Generator_1VQ4LCY/README.text",
+		"/C/Users/Makie/Downloads/SWN_Generator_1VQ4LCY.zip",
+		"/C/Users/Makie/Downloads/c:\\users\\makie\\appdata\\local\\temp\\Zip Browser\\4de270e6a3c0a3d93a5719c7012f3abf\\README.text",
+		"/C/Users/Makie/AppData/Local/Temp/7zOA03.tmp/README.text",
+		"/C/Users/Makie/GitHub/Practice/anagram.py",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/Users/Makie/GitHub/SWN_Gen/tag_data.txt",
+		"/C/Users/Makie/GitHub/SWN_Gen/swn_gen.py",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/Python Imports Sorter/Default.sublime-settings",
+		"/C/Users/Makie/GitHub/SWN_Gen/errors.log",
+		"/C/Users/Makie/AppData/Roaming/Sublime Text 3/Packages/User/json item.sublime-snippet",
+		"/C/Users/Makie/GitHub/SWN_Gen/logging.conf",
+		"/C/Users/Makie/GitHub/SWN_Gen/example.log",
+		"/C/Users/Makie/GitHub/SWN_Gen/.gitignore",
+		"/C/Users/Makie/AppData/Local/Temp/7zO5454.tmp/Battle Royale Credits.txt",
+		"/C/Users/Makie/AppData/Local/Temp/7zO58C.tmp/README.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":",
+			"_default_root",
+			":",
+			"frame",
+			"()",
+			"content",
+			"Home",
+			"RadioButton",
+			"ltf",
+			"distance",
+			"distance_to",
+			"distance",
+			"print",
+			"print(",
+			"SCREEN",
+			"console_set_default_back",
+			"console_set_default_bak",
+			"console_set_default_ba",
+			"x",
+			"tcod.console_is_key_pressed",
+			"handle_keys",
+			"player.move",
+			"move",
+			"if",
+			"x",
+			"fov_recompute",
+			"C_WALL_DARK",
+			"c_ground_dark",
+			"c_wall_dark",
+			"()",
+			"x",
+			"1",
+			"x2",
+			"x1",
+			"x",
+			"_",
+			"object ",
+			"object",
+			"libtcod",
+			"0",
+			"key.vk",
+			"k",
+			"tcod.console_is_key_pressed",
+			"libtcod",
+			"initial_value",
+			"cell",
+			"Cell",
+			"image",
+			"im",
+			"copying",
+			"shay",
+			"Well I don",
+			"Well I don’t have a legitimate reason",
+			"c",
+			"t",
+			"T",
+			"t",
+			"t ",
+			"t",
+			"basic",
+			"”",
+			"“",
+			"’",
+			"‘",
+			"\"\", \"\", \"\"",
+			"\\[\\s{2,}\\\"\\\",\\s{2,}\\\"\\\",\\s{2,}\\\"\\\"\\s{2,}\\]",
+			"to_file",
+			",",
+			"$\\n^",
+			"$^",
+			"$",
+			"\\n",
+			"\"",
+			"^\\d+ ",
+			" \\d ",
+			"logger",
+			"logging",
+			"star",
+			"map",
+			"        ",
+			"____",
+			" ",
+			"\\n",
+			"int",
+			"Int",
+			"int",
+			"min-width",
+			"width",
+			"FrapsView",
+			"input",
+			"get_input",
+			"convert_",
+			"question",
+			"dirty",
+			"\\'",
+			"><",
+			"Wow6432Node\\",
+			"HKEY_LOCAL_MACHINE",
+			"value",
+			"message",
+			"repeat",
+			"stats",
+			"statistics",
+			"Statistics",
+			"statistics",
+			"frequencies",
+			"calculate_mode",
+			"Yuile",
+			"^.*:.*:.*$",
+			"\\d{4}:[a-z-]*:[a-z-]*:",
+			"\\d{4}:[a-z]*:[a-z-]*:",
+			".*::",
+			"(^.*:.*:.*:)(?<DD>.*:.*)",
+			"(*)",
+			"(^)",
+			"\\t",
+			"/t",
+			"\\t",
+			")",
+			"repr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"'",
+			"",
+			"[\"\", \"\", \"\"]",
+			"\\n",
+			"\", \"",
+			"",
+			"\\n",
+			"system",
+			"   ##   ",
+			"_____",
+			"\\t",
+			"+",
+			"_convert_",
+			"'",
+			">\\n<",
+			"\\CRLF",
+			"\\n",
+			"HKEY_CURRENT_USER",
+			"",
+			"\\gDD",
+			"*",
+			"^",
+			"\\t\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.RGBCalibrate":
+	{
+		"height": 118.0
+	},
+	"output.ds3231":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 213.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.morsetest":
+	{
+		"height": 118.0
+	},
+	"output.rtc_set":
+	{
+		"height": 227.0
+	},
+	"output.stino_log":
+	{
+		"height": 118.0
+	},
+	"project": "markov.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Makie\\GitHub\\PillowPractice\\1398999961332.jpg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
